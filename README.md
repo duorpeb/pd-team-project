@@ -59,7 +59,7 @@
 ### 🖥️ API
 <img src="https://img.shields.io/badge/공연예술통합전산망 (KOPIS) 의 Open API-blue"> <img src="https://img.shields.io/badge/GooGle-Maps-API.svg?&style=for-the-badge&logo=googlemaps&logoColor=white"> <br><br> 
 
-### 🖥️ 라이브러리 
+### 🖥️ Libraray
 <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <br><br><br><br><br>
 
 
