@@ -91,31 +91,31 @@
 <br><br><br><br><br>
 
 
-### 🖥️ 스크린샷
+> # 💡 스크린샷
 
-> 📗 메인 페이지 <br><br>
+> 🖥️ 메인 페이지 <br><br>
 >> <img width="1200" height="900" src="https://github.com/user-attachments/assets/95c13d0f-f9bd-4314-b3d1-8fb61db1994e" />
 <br><br><br>
 
-> 📗 공연 정보 출력 페이지 - 상단 : 슬라이드 배너, 카테고리 선택 <br><br>
+> 🖥️ 공연 정보 출력 페이지 - 상단 : 슬라이드 배너, 카테고리 선택 <br><br>
 >> <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/63ffa58b-c16e-45b7-a94a-b1014cd7983c" />
 >> <img width="1200" height="100" alt="image" src="https://github.com/user-attachments/assets/60d06597-ecb5-47ee-b995-249e7aec9c1a" />
 <br><br><br>
 
-> 📗 공연 정보 출력 페이지 - 하단 : 공연 정보, 더보기 버튼, 푸터 <br><br>
+> 🖥️ 공연 정보 출력 페이지 - 하단 : 공연 정보, 더보기 버튼, 푸터 <br><br>
 >> <img width="1200" height="550" alt="image" src="https://github.com/user-attachments/assets/f5b17876-3640-4e84-9e11-8d3339654468" />
 >> <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/cf7aa88c-adc9-407c-98f9-74ae94262e1b" />
 <br><br><br>
  
-> 📗 공연 정보 상세 페이지 - 상단 <br><br>
+> 🖥️ 공연 정보 상세 페이지 - 상단 <br><br>
 >> <img width="792" height="326" alt="image" src="https://github.com/user-attachments/assets/679ef140-0817-4e12-b6e3-6e8bd6a2bf80" />
 <br><br><br>
 
-> 📗 공연 정보 상세 페이지 - 하단 <br><br>
+> 🖥️ 공연 정보 상세 페이지 - 하단 <br><br>
 >> <img width="798" height="371" alt="image" src="https://github.com/user-attachments/assets/9c0c10f2-898a-4a2d-9e5d-241a4fe9cf17" />
 <br><br><br>
 
-> 📗 로그인 및 회원 가입 <br><br>
+> 🖥️ 로그인 및 회원 가입 <br><br>
 >> <img width="271" height="185" alt="image" src="https://github.com/user-attachments/assets/1434da18-f98d-4099-ab43-ce84748267fa" /> <br>
 >> <img width="292" height="332" alt="image" src="https://github.com/user-attachments/assets/7f314356-3f14-4def-a935-cac57ffb3da7" />
 
